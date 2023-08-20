@@ -1,0 +1,1 @@
+This is a project created during the coursework of The Odin Project. The idea of this project is to create a landing page matching a given picture using CSS to test knowledge of CSS properties and flex box at this point. 
