@@ -156,6 +156,43 @@
 .action{
     flex: 1;
     flex-basis: 150px;
+    display: flex;
+    justify-content: stretch;
+}
+
+.action-box{
+    display: flex;
+    margin: 2% 20%;
+    background-color: #3882F6;
+    flex-basis: 100%;
+    border-radius: 10px;
+    align-items: center;
+
+}
+
+.action-text{
+    margin-right: auto;
+    margin-left: 2%;
+}
+
+.action-header{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.action-sub{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.action-button{
+    margin-right: 15%;
+    font-size: 18px;
+    color:#F9FAF8;
+    border: 3px solid #F9FAF8;
+    border-radius: 5px;
+    padding: 8px 30px;
 }
 
 .footer{
